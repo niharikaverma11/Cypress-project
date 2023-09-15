@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/cypress": "^9.0.0",
+    "cypress": "^12.16.0",
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "cypress-real-events": "^1.8.1",
+    "mocha-spec-json-reporter": "^0.0.2"
+  }
+}
